@@ -1,0 +1,20 @@
+
+@font-face{
+font-family:"Avenir Next W01";
+src:url("AvenirNext.woff2") format("woff2");
+font-weight:300;font-style:normal;
+}
+
+@font-face{
+font-family:"Avenir Next W01";
+src:url("AvenirNext2.woff2") format("woff2");
+font-weight:400;font-style:normal;
+}
+
+@font-face{
+font-family:"Avenir Next W01";
+src:url("aad99a1f-7917-4dd6-bbb5-b07cedbff64f.woff2") format("woff2");
+font-weight:500;font-style:normal;
+}
+@media all and (min-width: 0px) {
+}
